@@ -1,0 +1,9 @@
+.content{
+    color: red;
+    background-color: gray;
+}
+.newContent{
+    color: rgb(0, 255, 47);
+    background-color: gray;
+    font-size: 30px;
+}
